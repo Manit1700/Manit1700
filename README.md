@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web dev
 - 📫 Can reach me on my mail manitrachh1700@gmail.com
 - 😄 Pronouns: he,him
-- ⚡ Fun fact: Learning the html, css , js now 😎
+- ⚡ Fun fact: Learning the html, css , js now 😎 don't know just took lightly in college..
 
 <!---
 Manit1700/Manit1700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
