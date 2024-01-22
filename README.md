@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manit1700
 - 👀 I’m interested in game development and software making
 - 🌱 I’m currently learning web dev
-- 📫 Can reach me on my mail manitrachh1700@gmail.com
+- 📫 Can reach me on my mail manitrachh1700@gmail.com or IG
 - 😄 Pronouns: he,him
 - ⚡ Fun fact: Learning the html, css , js now 😎 don't know just took lightly in college..
 
